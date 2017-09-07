@@ -15,9 +15,25 @@ Various file types and file sizes that can be used to test file uploads.
 ## Tools
 *These tools are not included in the repo, but can be downloaded from the provided links.*
 
+### Browser Testing
+
+[Blisk](https://blisk.io/)
+    - Desktop browser that emulates phones/tablets alongside full webpage. Good for testing responsive sites.
+
+### Data 
+
+[Mockaroo](https://www.mockaroo.com/) 
+    - A realistic mock data generator. Generate up to 1,000 rows of data at a time for free. 
+
+### Virtual Environments
+ 
 [Vagrant](https://www.vagrantup.com) - Development Environments Made Easy
     - Sets up VM environments with just a few commands
 
 [VirutalBox](https://www.virtualbox.org/wiki/Downloads) 
     - to run VMs
 
+## Web Debugging
+
+[Fiddler](http://www.telerik.com/fiddler)
+    - Web debugging proxy
